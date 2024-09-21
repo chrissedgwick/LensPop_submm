@@ -95,7 +95,7 @@ S[survey].rfac=float(2)
 
 print("about to load first lens ...")
 
-for i in range((nall):       
+for i in range(nall):       
     if i%10000==0:
 
         L.LoadLensPop(i,sourcepop)
