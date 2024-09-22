@@ -59,7 +59,7 @@ python   MakeLensPop.py (takes ~7 hours, makes all the lenses on the sky) to gen
 
 python ModelAll.py (takes ~24 hrs for submm 10mJy and frac=0.25, fraction of sky) to generate and observe the idealized lens population
 
-python MakeResults.py (a few minutes) to generate txt file with all parameters of results
+python MakeResults.py (a few minutes) to generate a .txt file with all parameters of results
 
 
 These are shown, with earlier results for specified parameters, in the Jupyter Notebook provided. Timimgs shown are for a reasonably recent laptop.
