@@ -35,7 +35,7 @@ Chris Sedgwick
 LICENSE
 
 ​
-The original code is open access, but please email thomas.collett@port.ac.uk to tell him that you are using it. Please cite Collett 2015, if you make use of these codes in your work.
+The original code is open access, but please email thomas.collett@port.ac.uk to tell him that you are using it. Please cite Collett, T., 2015, ApJ, 811, 20, if you make use of these codes in your work.
 
 The amended code for submillimatre lenses is also open access. Please email chris@sedgwick.uk.net and cite Sedgwick et al. 2024 (in prep.) if you make use of this in your work. 
 
