@@ -17,7 +17,7 @@ The main changes to the original model have been:
 (1) A submillimetre source population (generated from data in Cai et al., 2013, ApJ, 768, 21, as described in the above two sources) has replaced the simulated LSST population in the original code. This is supplied in the file submmdataCai.txt (note size 3Gb: still to upload).
 
 ​
-(2) The criteria for accepting a lens is detectable have changed; in addition to the Einstein radius criterion, a much simpler criterion using the 500 micron flux level is applied. In the original paper (Negrello et al., 2010, Science, 330, 800) this was set at >100mJy; later work has used >80mJy; some of the results in the Sedgwick et al. paper uses >10mJy to estimate the total number of submm lenses.
+(2) The criteria for accepting a lens is detectable have changed; in addition to the Einstein radius criterion, a much simpler criterion using the 500 micron flux level is applied. In the original paper proposing this (Negrello et al., 2010, Science, 330, 800) the flux cutoff was set at >100mJy; later work has used >80mJy; some of the results in the Sedgwick et al. paper cited above use >10mJy to estimate the total number of submm lenses.
 
 
 (3) The code has been updated to Python 3.8, although the resulting changes were fairly minor.
