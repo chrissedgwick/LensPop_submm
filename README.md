@@ -1,10 +1,10 @@
 # LensPop_submm
-LensPop model adapted for simulating lensed submillimetre galaxies
+(LensPop model adapted for simulating lensed submillimetre galaxies)
 ​
 
 The original LensPop model by Tom Collett (https://github.com/tcollett/LensPop) has been adapted for simulating lensed submillimetre galaxies.
 ​
-For details of changes to the original model, please see 
+For details of changes to the original model, please see: 
 
 (a) Charles Weiner, 2019, Strong Gravitational Lens Modelling, Master Thesis, The Open University; and
 
