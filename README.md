@@ -54,20 +54,12 @@ f2py -c -m powerlaw powerlaw.f
    
 HOW TO REPRODUCE RESULTS in Sedgwick et al. 2024 
 
-​
-First, generate idealized foreground lens population:
 
-   python   MakeLensPop.py (~7 hours, makes all the lenses on the sky)
+python   MakeLensPop.py (~7 hours, makes all the lenses on the sky) to generate idealized foreground lens population
 
+python ModelAll.py submm 0.1 (~24 hrs for frac=0.25, fraction of sky) to generate and observe the idealized lens population
 
-Now generate and observe the idealized lens population:
-
-   python ModelAll.py submm 0.1 (~24 hrs for frac=0.25, fraction of sky)
-
-
-Now Make Results:
-
-   python MakeResults.py
+python MakeResults.py to generate txt file with all parameters of results
 
 
 These are shown, with earlier results for specified parameters, in the Jupyter Notebook provided.
