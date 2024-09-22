@@ -24,11 +24,11 @@ The main changes to the original model have been:
 
 Other minor amendments to the code are indicated in the individual routines. The structure of the model and the names of the various routines are unchanged.
 
-A Jupyter Notebook is provided which includes the run sequence, some example results, and flowcharts showing the relationship between components of the model, data input and output between routines, and class inheritance. These flowcharts are equally applicable to the original code.
+A Jupyter Notebook is provided which includes the run sequence, some example results, and flowcharts showing the relationship between components of the model, and the flow of data input and output between routines. These flowcharts are equally applicable to the original code.
 
 Chris Sedgwick
 
-18 September 2024
+22 September 2024
 
 ===============================================================================
 
