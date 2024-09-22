@@ -8,7 +8,7 @@ For details of changes to the original model, please see:
 
 (a) Charles Weiner, 2019, Strong Gravitational Lens Modelling, Master Thesis, The Open University; and
 
-(b) Chris Sedgwick, Stephen Serjeant, Charles Weiner, 2024, The detection of strongly-lensed submillimetre galaxies (in preparation)
+(b) Chris Sedgwick, Stephen Serjeant, and Charles Weiner, 2024, The detection of strongly-lensed submillimetre galaxies (in preparation)
 
 
 ​
