@@ -33,12 +33,12 @@ from __init__ import *
 
 
 if len(sys.argv)==3:                # input for criterion, frac added CJS 20/9/2024
-    criterion = float(sys.argv[1]) 
+    criterion = int(sys.argv[1]) 
     frac = float(sys.argv[2])   
 
 else:
     criterion = input('Enter criterion e.g. 10 or 80: ')
-    criterion = float(criterion)
+    criterion = int(criterion)
     frac = input('Enter frac (fraction of sky) e.g. 0.25: ')
     frac = float(frac)
     print()
